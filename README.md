@@ -2,15 +2,15 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cesar-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar/)](https://www.linkedin.com/in/cesar/)
 
-![Machine Learning ASCII/Description](URL_OF_YOUR_IMAGE)
+![Machine Learning ASCII/Description](/Users/delaygues/Documents/1642188813241.jpeg)
 
 📚 **Data Science** Student | 🌍 @EPF Engineering School, France 
 
 🔍 Data Whisperer - Giving voice to data in the realm of Business and Machine Learning
 
-📧 Reach out to me at: cesardelaygues@gmail.com
-
 📈 Always working on personal project to improve my skills
+
+📧 Reach out to me at: cesardelaygues@gmail.com
 
 
 💼 Tools & Languages Mastered:  
@@ -23,8 +23,6 @@
    ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
    ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
    ![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white)
-
-💡 Always on the lookout for new **learning opportunities** and **collaborations**.
 
 ---
 

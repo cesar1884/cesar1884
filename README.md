@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cesar-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar/)](https://www.linkedin.com/in/cesar/)
 
-![Machine Learning ASCII/Description](/Users/delaygues/Documents/1642188813241.jpeg)
+![Machine Learning ASCII/Description]((https://myoctocat.com/))
 
 📚 **Data Science** Student | 🌍 @EPF Engineering School, France 
 

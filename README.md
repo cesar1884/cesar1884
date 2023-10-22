@@ -1,13 +1,16 @@
 ### Hi there 👋 I'm César
 
-# Cesar [![Linkedin Badge](https://img.shields.io/badge/-Cesar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar/)](https://www.linkedin.com/in/cesar/)
+[![Linkedin Badge](https://img.shields.io/badge/-Cesar-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar/)](https://www.linkedin.com/in/cesar/)
 
 ![Machine Learning ASCII/Description](URL_OF_YOUR_IMAGE)
 
-📚 **Data Science** Student | 🌍 @EPF Engineering School, France  
+📚 **Data Science** Student | 🌍 @EPF Engineering School, France 
+
 🔍 Data Whisperer - Giving voice to data in the realm of Business and Machine Learning
-📧 Reach out to me at: cesardelaygues@gmail.com  
-📈 Experienced in data analysis and predictive modeling  
+
+📧 Reach out to me at: cesardelaygues@gmail.com
+
+📈 Always working on personal project to improve my skills
 
 
 💼 Tools & Languages Mastered:  

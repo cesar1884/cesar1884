@@ -2,8 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cesar-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar/)](https://www.linkedin.com/in/cesar/)
 
-(https://myoctocat.com/)
-
 📚 **Data Science** Student | 🌍 @EPF Engineering School, France 
 
 🔍 Data Whisperer - Giving voice to data in the realm of Business and Machine Learning

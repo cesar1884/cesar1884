@@ -13,7 +13,7 @@
 ### 🌟 Featured Project: 
 
 - TripAdvisor Reviews Analysis [![TripAdvisor Reviews](https://img.shields.io/badge/-NLP%20&%20Deep%20Learning-blueviolet?style=flat-square&logo=github)](https://github.com/cesar1884/NLP_reviews_TripAdvisor)
-An NLP Project where I analyzed TripAdvisor hotels review to reveals factors that make an hotel good or not based on customers opinions.
+- An NLP Project where I analyzed TripAdvisor hotels review to reveals factors that make an hotel good or not based on customers opinions.
 
 💼 Tools & Languages Mastered:  
    ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
